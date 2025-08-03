@@ -9,7 +9,7 @@
 ## Use case
 
 -   Share/Sync shelves across different Maya versions
--   Share/Sync shelves among team members through cloud storage
+-   Share shelves among team members through cloud storage
 
 ## Features
 
