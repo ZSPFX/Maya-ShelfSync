@@ -4,6 +4,8 @@
 
 🎁 ShelfSync let you sync your shelves across different Maya versions or machines through cloud storage like Dropbox, Google Drive, OneDrive, etc.
 
+![Tab UI](https://github.com/zspfx/Maya-ShelfSync/blob/main/images/TabUI.png?raw=true)
+
 ![Maya](https://img.shields.io/static/v1?message=Maya&color=0696D7&logo=Autodesk&logoColor=white&label=) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Use case
