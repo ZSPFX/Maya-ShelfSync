@@ -2,7 +2,7 @@
 
 > Support Autodesk Maya 2022, 2023, 2024, 2025, 2026
 
-🎁 ShelfSync let you sync your shelves across different Maya versions or team members through cloud storage like Dropbox, Google Drive, OneDrive, etc. You can set a custom password for publishing shared shelves.
+🎁 ShelfSync let you sync your shelves across different Maya versions or machines through cloud storage like Dropbox, Google Drive, OneDrive, etc. You can set a custom password for publishing shared shelves.
 
 ![Maya](https://img.shields.io/static/v1?message=Maya&color=0696D7&logo=Autodesk&logoColor=white&label=) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
