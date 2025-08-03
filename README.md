@@ -47,10 +47,10 @@ You're set! :)
 
 You're set! :D
 
-> Now shelves will be loaded automatically when you open Maya or sync manually.
+> Shelves will be updated automatically when you open Maya or sync manually.
 
 ## FAQ
 
 ### How does password protection work?
 
-To sync the shelves, its hash has to be signed with the unlocked RSA private key which only the publisher knows the password of to unlock the key and use it for signing. The public key is used to verify the signature which every team member will store a copy of them locally on their machine to verify its integrity and shelves authenticity before syncing.
+To sync the shelves, its hash has to be signed with the unlocked RSA private key which only the publisher knows the password of to unlock the key and use it for signing. The public key is used to verify the signature which every team member will store a copy of them locally on their machine to verify its integrity and authenticity before syncing.
