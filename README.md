@@ -8,12 +8,12 @@
 
 ## Use case
 
--   Share shelves across different Maya versions
--   Share shelves among team members through cloud storage
+-   Share/Sync shelves across different Maya versions
+-   Share/Sync shelves among team members through cloud storage
 
 ## Features
 
--   Sharing shelves with custom icons
+-   Sharing and syncing shelves with custom icons
 -   Joining/leaving multiple team (Each team has their own shelves, like a group)
 -   Automatically sync all shelves when you open Maya
 -   Admin password protected for publishing shelves (Prevent unauthorized publishing among team members)
